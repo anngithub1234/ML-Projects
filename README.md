@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/885eff7c-7601-42ec-9fbb-7b31f5f6bab5)# ML & Data Analytic Projects
+# ML & Data Analytic Projects
 ## Gold Prediction
 Developed and optimized predictive models for gold price forecasting using machine learning techniques such as Lasso regression, Random Forest, and XGBoost. Implemented data preprocessing, feature engineering, and hyperparameter tuning to improve model accuracy and interpretability. Used GridSearchCV for model optimization and ELI5 for explainability
 ## Cartooning a Picture
