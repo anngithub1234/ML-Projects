@@ -9,3 +9,5 @@ Adaptive thresholding is an image processing technique used to convert a graysca
 ## Zomato Exploratory Data Analysis of Restaurants
 ## Wine Quality Prediction
 ## Employee Attrition Prediction
+## Portfolio optimization using historical stock data
+Python project for portfolio optimization using historical stock data, including max Sharpe and minimum volatility portfolios, efficient frontier visualization, and backtesting with transaction costs. Demonstrates modern portfolio theory (MPT) in Python. Downloads historical stock prices using yfinance. Suitable for learning quantitative finance and portfolio management.
